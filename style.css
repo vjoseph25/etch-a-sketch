@@ -5,6 +5,14 @@
     flex: 1;
 }
 
+.buttonClass {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+}
+
+
 .row {
     display: flex;
     flex: 1;
@@ -12,6 +20,5 @@
 }
 
 .square {
-    color: blue;
     flex: 1;
 }
